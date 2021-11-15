@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning web vitals & Python
 - 💬 Ask me about Front end development
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/vishakha-nagpal-182436130/">Linkedin</a>
-- 📄 Resume (https://github.com/vishaNagpal/vishaNagpal/blob/main/Vishakha's%20Resume.pdf)
+- 📄 **<a href="https://github.com/vishaNagpal/vishaNagpal/blob/main/Vishakha's%20Resume.pdf">Resume</a>**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishanagpal&show_icons=true&locale=en&layout=compact" alt="vishanagpal" /></p>
 
