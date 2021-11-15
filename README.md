@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishanagpal&label=Profile%20views&color=0e75b6&style=flat" alt="vishanagpal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishanagpal" alt="vishanagpal" /></a> </p>
-
 - 🔭 I’m currently working on **front end projects as well as in a super cool project in python**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vishakha-nagpal-182436130/**
