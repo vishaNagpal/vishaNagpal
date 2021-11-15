@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vishakha Nagapl</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1>Hi 👋, I'm Vishakha Nagapl</h1>
+<h3>A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishanagpal&label=Profile%20views&color=0e75b6&style=flat" alt="vishanagpal" /> </p>
 
-- 🔭 I’m currently working on **front end projects as well as in a super cool project in python**
-
-- 📫 How to reach me **https://www.linkedin.com/in/vishakha-nagpal-182436130/**
-
+- 🔭 I’m currently working on React, Typescript & python
+- 🌱 I’m currently learning web vitals & Python
+- 💬 Ask me about Front end development
+- 📫 How to reach me : **Linkedin(https://www.linkedin.com/in/vishakha-nagpal-182436130/)**
 - 📄 Resume (https://github.com/vishaNagpal/vishaNagpal/blob/main/Vishakha's%20Resume.pdf)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishanagpal&show_icons=true&locale=en&layout=compact" alt="vishanagpal" /></p>
