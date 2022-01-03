@@ -10,5 +10,3 @@
 - 📄 **<a href="https://github.com/vishaNagpal/vishaNagpal/blob/main/Vishakha's%20Resume.pdf">Resume</a>**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishanagpal&show_icons=true&locale=en&layout=compact" alt="vishanagpal" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishanagpal&show_icons=true&theme=dark&locale=en" alt="vishanagpal" /></p>
