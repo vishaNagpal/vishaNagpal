@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishanagpal&label=Profile%20views&color=0e75b6&style=flat" alt="vishanagpal" /> </p>
 
 - 🔭 I’m currently working on React, Typescript & python
-- 🌱 I’m currently learning web vitals & Python
+- 🌱 Explored some areas for web vitals & Python
 - 💬 Ask me about Front end development
 - 📫 How to reach me : <a href="https://www.linkedin.com/in/vishakha-nagpal-182436130/">Linkedin</a>
 - 📄 **<a href="https://github.com/vishaNagpal/vishaNagpal/blob/main/Vishakha's%20Resume.pdf">Resume</a>**
